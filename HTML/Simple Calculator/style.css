@@ -1,0 +1,26 @@
+input[type="text"] {
+    width: 150px;
+}
+
+button {
+    width: 40px;
+    height: 40px;
+    font-size: 16px;
+    margin: 5px;
+}
+
+button.number {
+    background-color: #f0f0f0;
+}
+
+button.operator {
+    background-color: #ff8800;
+}
+
+#clear {
+    background-color: #ff0000;
+}
+
+#equals {
+    background-color: #00cc00;
+}
