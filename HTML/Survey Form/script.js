@@ -47,7 +47,7 @@ function displayPopup() {
 
 function closePopup() {
     const popup = document.getElementById("popup");
-    popup.style display = "none";
+    popup.style.display = "none";
     document.getElementById("surveyForm").reset();
 }
 
