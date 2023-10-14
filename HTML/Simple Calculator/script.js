@@ -68,7 +68,7 @@ function performOperation(a, b, operator) {
                 return 0;
             }
         default:
-            return parseFloat(currentInput); // Handle numbers as well
+            return parseFloat(currentInput); 
     }
 }
 
